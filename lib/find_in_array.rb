@@ -4,4 +4,5 @@ def find_element_index(array, value_to_find)
     if i == value_to_find
       i
     end
+  end
 end
